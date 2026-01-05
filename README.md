@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehee123)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hwang%20Sehee&fontSize=90" />

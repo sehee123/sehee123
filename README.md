@@ -17,7 +17,23 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hwang%20Sehee&fontSize=90" />
 
-## 🛠 SKILLS
+## Recent Projects (데브코스 & Open Source)
+### 🧠 뇌이싱: 실시간 퀴즈 플랫폼
+[GitHub Repository 🔗](https://github.com/sehee123/WEB5_7_F1_BE)
+
+- **Description:** 사용자간 실시간 경쟁이 가능한 온라인 퀴즈/게임 서비스
+- **Role:** Backend
+- **Tech:** Java, Spring Boot, JPA, Redis, WebSocket, MySQL
+- **Experience:**
+    - 실시간 통신 및 동기화: WebSocket 기반의 실시간 채팅 기능 및 게임 엔진 구현
+    - 재연결 세션 관리: 네트워크 순단 시 사용자 재연결 및 기존 게임방 복구 로직 설계(세션 유지 및 데이터 정합성)
+    - 입퇴장 흐름 제어: 동시 접속 상황에서의 게임방 입/퇴장 처리 및 방 상태 동기화 로직 최적화
+
+
+
+
+
+## SKILLS
 
 ### 🚀 Backend
 - **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)

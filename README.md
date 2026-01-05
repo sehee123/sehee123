@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - **Description:** 사용자간 실시간 경쟁이 가능한 온라인 퀴즈/게임 서비스
 - **Role:** FullStack
-- **Tech:** Kotlin, Spring Boot,Spring Security, Jwt, JPA, Redis, MySQL, JUnit
+- **Tech:** Kotlin,React Spring Boot,Spring Security, Jwt, JPA, Redis, MySQL, JUnit, React
 - **Experience:**
     - 언어 마이그레이션: Java 기반의 보안 로직을 Kotlin으로 100% 전환하며, Null-safety 적용을 통해 런타임 안정성 강화
     - 인증/인가 시스템: Spring Security와 JWT를 활용한 로그인/로그아웃 및 권한 관리 시스템 구축

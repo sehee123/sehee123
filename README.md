@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hwang%20Sehee&fontSize=90" />
 
-## Recent Projects (데브코스 & Open Source)
+## Recent Projects (데브코스)
 ### 🧠 뇌이싱: 실시간 퀴즈 플랫폼
 [GitHub Repository 🔗](https://github.com/sehee123/WEB5_7_F1_BE)
 

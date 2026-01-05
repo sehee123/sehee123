@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### 🗓️ 사내 휴가 관리 시스템 (Legacy to Kotlin Migration)
 [GitHub Repository 🔗](https://github.com/sehee123/NBE5-7-3-Team06)
 
-- **Description:** 사용자간 실시간 경쟁이 가능한 온라인 퀴즈/게임 서비스
+- **Description:** 온라인 휴가 관리 시스템 서비스
 - **Role:** FullStack
 - **Tech:** Kotlin,React Spring Boot,Spring Security, Jwt, JPA, Redis, MySQL, JUnit, React
 - **Experience:**
